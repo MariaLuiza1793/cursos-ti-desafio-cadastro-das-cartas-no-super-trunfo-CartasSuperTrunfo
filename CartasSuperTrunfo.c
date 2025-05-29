@@ -41,9 +41,6 @@ int main() {
     printf("Número de Pontos Turísticos: %d\n", cidade1.pontosTuristicos);
 
 
-    // Exibindo pibPerCapita1 para evitar warning de variável não usada
-    // (Já está sendo usada no printf acima)
-
   // Exibindo carta 2
     printf("\n--- Carta 2 ---\n");
     printf("Código: %s\n", cidade2.codigo);
